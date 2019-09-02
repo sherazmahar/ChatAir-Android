@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/wajahatkarim3/ChatHub/master/ChatHub_Logo.jpg)
+![](https://raw.githubusercontent.com/ChatAir/ChatAir-Android/master/ChatAir_Logo.jpg)
 
 # ChatHub
 A highly advance featured chat app in android using Firestore
